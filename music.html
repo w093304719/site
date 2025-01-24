@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <style>
+        .container {
+            position: relative;
+            left: 270px;
+            top: 356px;
+            display: flex;
+            gap: 240px;
+        }
+        
+        /* formatting for all divs (including nav links) */
+        div {
+            font-size: 22px;
+            font-family: nimbusroman9regular;
+            margin-bottom: 7px;
+        }
+        
+        /* current page (greyed out, non link in container) */
+        .container > nav {
+            color: lightgray;
+            text-decoration: underline;
+            margin-left: 15px;  
+            font-size: 22px;
+        }
+
+        /* link div: overrides non link div rule above */
+        .container > nav a {
+            color: black;
+            font-size: 22px;
+        }
+
+        .content {
+            font-family: nimbusroman9regular;
+            color: black;
+            font-size: 22px;
+        }
+    </style>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <div>
+                <a href="about.html">about</a>
+            </div>
+            <div>
+                music
+            </div>
+            <div>
+                <a href="log.html">log</a>
+            </div>
+            <div>
+                <a href="index.html">back</a>
+            </div>
+        </nav>
+        <div class="content"; style="position: relative;  margin-top: 29px;">
+            soon...
+        </div>
+        
+    </div>
+</body>
+</html>
