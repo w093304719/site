@@ -1,0 +1,35 @@
+@font-face{ 
+	font-family: 'nimbusroman9lbold';
+	src: url('fonts/nimbusromanno9l_bold_macroman/NimbusRomNo9L-Med-webfont.eot');
+	src: url('fonts/nimbusromanno9l_bold_macroman/NimbusRomNo9L-Med-webfont.eot?iefix') format('eot'),
+	     url('fonts/nimbusromanno9l_bold_macroman/NimbusRomNo9L-Med-webfont.woff') format('woff'),
+	     url('fonts/nimbusromanno9l_bold_macroman/NimbusRomNo9L-Med-webfont.ttf') format('truetype'),
+	     url('fonts/nimbusromanno9l_bold_macroman/NimbusRomNo9L-Med-webfont.svg#webfont') format('svg');
+}
+
+@font-face{ 
+	font-family: 'nimbusroman9lbolditalic';
+	src: url('fonts/nimbusromanno9l_bolditalic_macroman/NimbusRomNo9L-MedIta-webfont.eot');
+	src: url('fonts/nimbusromanno9l_bolditalic_macroman/NimbusRomNo9L-MedIta-webfont.eot?iefix') format('eot'),
+	     url('fonts/nimbusromanno9l_bolditalic_macroman/NimbusRomNo9L-MedIta-webfont.woff') format('woff'),
+	     url('fonts/nimbusromanno9l_bolditalic_macroman/NimbusRomNo9L-MedIta-webfont.ttf') format('truetype'),
+	     url('fonts/nimbusromanno9l_bolditalic_macroman/NimbusRomNo9L-MedIta-webfont.svg#webfont') format('svg');
+}
+
+@font-face{ 
+	font-family: 'nimbusroman9litalic';
+	src: url('fonts/nimbusromanno9l_italic_macroman/NimbusRomNo9L-RegIta-webfont.eot');
+	src: url('fonts/nimbusromanno9l_italic_macroman/NimbusRomNo9L-RegIta-webfont.eot?iefix') format('eot'),
+	     url('fonts/nimbusromanno9l_italic_macroman/NimbusRomNo9L-RegIta-webfont.woff') format('woff'),
+	     url('fonts/nimbusromanno9l_italic_macroman/NimbusRomNo9L-RegIta-webfont.ttf') format('truetype'),
+	     url('fonts/nimbusromanno9l_italic_macroman/NimbusRomNo9L-RegIta-webfont.svg#webfont') format('svg');
+}
+
+@font-face{ 
+	font-family: 'nimbusroman9lregular';
+	src: url('fonts/nimbusromanno9l_regular_macroman/NimbusRomNo9L-Reg-webfont.eot');
+	src: url('fonts/nimbusromanno9l_regular_macroman/NimbusRomNo9L-Reg-webfont.eot?iefix') format('eot'),
+	     url('fonts/nimbusromanno9l_regular_macroman/NimbusRomNo9L-Reg-webfont.woff') format('woff'),
+	     url('fonts/nimbusromanno9l_regular_macroman/NimbusRomNo9L-Reg-webfont.ttf') format('truetype'),
+	     url('fonts/nimbusromanno9l_regular_macroman/NimbusRomNo9L-Reg-webfont.svg#webfont') format('svg');
+}
